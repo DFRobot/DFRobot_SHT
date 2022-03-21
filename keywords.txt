@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DFRobot_SHT	KEYWORD1
+DFRobot_SHTC3	KEYWORD1
+DFRobot_SHT40	KEYWORD1
+
+#######################################
+# Methods and Functions  (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
+getTemHum	KEYWORD2
+getDeviceID	KEYWORD2
+setMode	KEYWORD2
+wakeup	KEYWORD2
+sleep	KEYWORD2
+enHeater	KEYWORD2
+#######################################
+# Constants   (LITERAL1)
+#######################################
+PRECISION_HIGH_CLKSTRETCH_ON	LITERAL1
+PRECISION_HIGH_CLKSTRETCH_OFF	LITERAL1
+PRECISION_LOW_CLKSTRETCH_ON	LITERAL1
+PRECISION_LOW_CLKSTRETCH_OFF	LITERAL1
+PRECISION_HIGH	LITERAL1
+PRECISION_MID	LITERAL1
+PRECISION_LOW	LITERAL1
+POWER_CONSUMPTION_H_HEATER_1S	LITERAL1
+POWER_CONSUMPTION_H_HEATER_100MS	LITERAL1
+POWER_CONSUMPTION_M_HEATER_100MS	LITERAL1
+POWER_CONSUMPTION_M_HEATER_1S	LITERAL1
+POWER_CONSUMPTION_L_HEATER_1S	LITERAL1
+POWER_CONSUMPTION_L_HEATER_100MS	LITERAL1
+SHT40_AD1B_IIC_ADDR	LITERAL1
+SHT40_BD1B_IIC_ADDR	LITERAL1
+MODE_ERR	LITERAL1
+     
+  
+     
+  
