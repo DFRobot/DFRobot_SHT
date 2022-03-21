@@ -6,13 +6,13 @@ The SHTC3 is a digital humidity and temperature sensor designed especially for h
 
 The sensor covers a humidity measurement range of 0 to 100 %RH and a temperature measurement range of - 40 °C to 125 °C with a typical accuracy of ±2 %RH and ±0.2°C.
 
-![](.\resources\images\SEN0414.png)
+![](./resources/images/SEN0414.png)
 
 ## DFRobot_SHT40
 
 The SHT40 sensor covers a humidity measurement range of 0 to 100%RH and a temperature detection range of -40°C to 125°C with a typical accuracy of ±1.8％RH and ±0.2℃. The board supply voltage of 3.3V to 5V and a current consumption below 0.15mA in low power mode make the SHTC3 perfectly suitable for mobile or wireless battery-driven applications.
 
-![](.\resources\images\SEN0428.png)
+![](./resources/images/SEN0428.png)
 
 ## Product Wiki（https://www.dfrobot.com/）
 [SEN0414](https://www.dfrobot.com.cn/goods-3364.html)

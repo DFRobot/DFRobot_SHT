@@ -7,13 +7,13 @@
 SHTC3是一种数字湿度和温度传感器，专为大容量消费电子应用而设计。
 湿度测量范围为0 ~ 100%RH，温度测量范围为- 40°C ~ 125°C，典型精度为±2% RH和±0.2°C。
 
-![](.\resources\images\SEN0414.png)
+![](./resources/images/SEN0414.png)
 
 ## DFRobot_SHT40
 
 SHT40传感器湿度测量范围为0 ~ 100%RH，温度检测范围为-40°C ~ 125°C，典型精度为±1.8%RH和±0.2℃。在低功耗模式下，SHTC3的板供电电压为3.3V至5V，电流消耗低于0.15mA，这使得SHTC3非常适合移动或无线电池驱动应用。
 
-![](.\resources\images\SEN0428.png)
+![](./resources/images/SEN0428.png)
 
 ## 产品链接(https://www.dfrobot.com/)
 
@@ -35,7 +35,7 @@ SHT40传感器湿度测量范围为0 ~ 100%RH，温度检测范围为-40°C ~ 12
 ## 库安装
 
 这里提供两种使用本库的方法：
-1. 打开Arduino IDE,在状态栏中的Tools--->Manager Libraries 搜索"DFRobot_ICM42688"并安装本库.
+1. 打开Arduino IDE,在状态栏中的Tools--->Manager Libraries 搜索"DFRobot_SHT"并安装本库.
 2. 首先下载库文件,将其粘贴到\Arduino\libraries目录中,然后打开examples文件夹并在该文件夹中运行演示.
 
 ## DFRobot_SHT类方法
