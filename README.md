@@ -15,8 +15,8 @@ The SHT40 sensor covers a humidity measurement range of 0 to 100%RH and a temper
 ![](./resources/images/SEN0428.png)
 
 ## Product Wiki（https://www.dfrobot.com/）
-[SEN0414](https://www.dfrobot.com.cn/goods-3364.html)
-[SEN0428](https://www.dfrobot.com.cn/goods-3364.html)
+[SEN0414](https://www.dfrobot.com/product-2436.html)
+[SEN0428](https://www.dfrobot.com/product-2437.html)
 
 ## Table of Contents
 
