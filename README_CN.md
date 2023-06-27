@@ -18,7 +18,7 @@ SHT40传感器湿度测量范围为0 ~ 100%RH，温度检测范围为-40°C ~ 12
 ## 产品链接(https://www.dfrobot.com/)
 
 [SEN0414](https://www.dfrobot.com.cn/goods-3364.html)
-[SEN0428](https://www.dfrobot.com.cn/goods-3364.html)
+[SEN0428](https://www.dfrobot.com.cn/goods-3365.html)
 
 ## Table of Contents
 
